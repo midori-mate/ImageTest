@@ -1,0 +1,4 @@
+lecturer.png [0, 0]
+pupil.png [0, 0]
+skype.png [0, 0]
+dialogbox.png [25, 278]
