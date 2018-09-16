@@ -249,6 +249,7 @@ class ImageTest:
                 package['mode'] = package['mode'].replace('__putfile', '')
         return package
 
+
 if __name__ == '__main__':
     pygame.init()
     screenSize = (640, 480)
